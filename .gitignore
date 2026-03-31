@@ -1,0 +1,29 @@
+# Compiled class files
+*.class
+
+# Maven target directory
+target/
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Downloaded Maven Wrapper/Distributions
+apache-maven-*/
+maven.zip
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS auto-generated files
+.DS_Store
+Thumbs.db
